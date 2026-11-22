@@ -2,8 +2,6 @@
 
 A small, fun browser game where you pick the stronger animal in head-to-head matchups and crown a champion at the end of each tournament.
 
-**Play it:** https://YOUR-USERNAME.github.io/heola/
-
 ## How to play
 
 1. Eight random animals enter a tournament.
